@@ -2,7 +2,7 @@
 
 - **HTTP**
     - Internet protocol stack에서 application layer의 protocol로, 서로 다른 시스템 사이에서 통신을 주고받게 해준다.
-    - 
+    - HTTP
 - **HTTPS**
     - HTTP 프로토콜에서 보안을 강화한 형태
     - 웹 사이트 사용자의 중요한 데이터를 안전하게 전송하는 데 이용(ex) 웹페이지 로그인 및 자격 증명)
