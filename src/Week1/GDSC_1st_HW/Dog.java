@@ -1,4 +1,4 @@
-package Week1;
+package Week1.GDSC_1st_HW;
 
 public class Dog extends Animal{
 
