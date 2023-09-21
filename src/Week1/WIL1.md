@@ -29,4 +29,5 @@
             - 고양이와 개는 포유류이다. 따라서 추상 클래스 Animal의 자식 클래스로 구현하자.
             - 개와 악어는 각각 포유류, 파충류이지만, 둘 다 수영을 할 수 있다. 따라서 인터페이스 Swimmable을 두 클래스에 implements하여 구현할 수 있다.
 
+
 참조: [[Java] 추상 클래스와 인터페이스의 차이](https://velog.io/@new_wisdom/Java-%EC%B6%94%EC%83%81-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EC%9D%98-%EC%B0%A8%EC%9D%B4)
