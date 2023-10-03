@@ -17,7 +17,19 @@
                 - application: 웹의 서블릿 컨텍스트(SurvletContext)와 같은 범위로 유지되는 스코프<br/>
                   참조 : [빈 스코프(Bean Scope)란? - [Spring] - 코드 연구소 - 티스토리](https://code-lab1.tistory.com/186)
 - **Spring Bean 등록 방법**
+    - @bean annotation 사용
+        - Bean 객체는 singleton이 아니다.
+        - @configuration annotation을 사용하면 singleton으로 구현 가능
+    - 의존성을 자동 주입해야 할 인터페이스 구현체가 두 개 이상일 경우
+        - 어떤 구현체를 자동 주입할 지 결정할 수 엇어 충돌 발생
+        - Primary, Qualifier annotationㅇ르 사용하여, 의존성 주입 시 우선숭위를 정할 수 있다.
+    - Component Scan 사용
+        - 스프링이 자동으로 스프링 빈을 등록
+        - @ComponentScan, @Component annotation 사용
+        - 등록된 Bean은 singleton이다.
+        
 
+<br/>
 시작은 @component 사용하려 할 때 'cannot resolve symbol component'였습니다.
 해결 방법을 찾아 보고 해결하는 중에, gradle을 refresh하는 방법을 사용하려 하였습니다.
 그러나 gradle이 제 프로젝트의 tool window에 보이지 않자, 이 오류를 해결하는 방법을 구글링해봤습니다.
