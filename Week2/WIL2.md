@@ -1,5 +1,6 @@
 ## 2023-2 BackEnd 스터디 2주차
 
+
 - **HTTP**
     - Internet protocol stack에서 application layer의 protocol로, 서로 다른 시스템 사이에서 통신을 주고받게 해준다.
     - 클라이언트 프로그램과 서버 프로그램은 서로 HTTP 메시지를 주고 받으면서 통신한다.
