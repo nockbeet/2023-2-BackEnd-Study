@@ -1,4 +1,9 @@
-package GDSC_1st_HW_01;
+package GDSC_1st_HW;
 
-public class Cat {
+public class Cat extends Animal{
+
+    @Override
+    public void speak() {
+        System.out.print("Meow!");
+    }
 }
