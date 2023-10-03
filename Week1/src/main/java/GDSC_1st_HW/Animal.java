@@ -1,4 +1,4 @@
-package Week1.GDSC_1st_HW;
+package GDSC_1st_HW_01;
 
 public abstract class Animal {
     public abstract void speak();
