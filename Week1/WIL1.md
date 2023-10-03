@@ -18,7 +18,6 @@
 
 참조: [객체 지향 설계의 5가지 원칙 - S.O.L.I.D - Inpa Dev ‍ - 티스토리](https://inpa.tistory.com/entry/OOP-%F0%9F%92%A0-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%EC%84%A4%EA%B3%84%EC%9D%98-5%EA%B0%80%EC%A7%80-%EC%9B%90%EC%B9%99-SOLID#thankYou)
 
-
 - **추상 클래스와 인터페이스의 비교**
     - 추상 클래스
         - 상속할 객체들의 공통점을 찾아 추상화시킬 목적의 클래스
