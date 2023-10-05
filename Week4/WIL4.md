@@ -40,4 +40,7 @@
         4. 외부 설정
             - 환경에 따라 달라져야 하는 외부 설정 공통화
         5. 프로덕션 준비
-           - 모니터링을 위한 메트릭, 상태 확인 기능 제공
+           - 모니터링을 위한 메트릭, 상태 확인 기능 제공<br/>
+
+- 과제 로그
+![log.info](https://github.com/nockbeet/2023-2-BackEnd-Study/blob/master/Week4/log%20%EC%B6%9C%EB%A0%A5.png?raw=true)
