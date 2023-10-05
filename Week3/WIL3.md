@@ -28,6 +28,7 @@
         - @ComponentScan, @Component annotation 사용
         - 등록된 Bean은 singleton이다.
 
+
 - **과제 로그**
     - 모든 Bean 출력
   ![AllBean](https://github.com/nockbeet/2023-2-BackEnd-Study/blob/master/Week3/%EB%AA%A8%EB%93%A0%20Bean%20%EC%B6%9C%EB%A0%A5.png?raw=true)
